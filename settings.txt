@@ -1,4 +1,13 @@
 // Settings in here override those in "Default/Preferences.sublime-settings", and
 // are overridden in turn by file type specific settings.
 {
+
+	"overlay_scroll_bars": "enabled",
+
+	"auto_complete_delay": 5, 
+
+	"fade_fold_buttons": false,
+
+	"font_size": 9 
+
 }
