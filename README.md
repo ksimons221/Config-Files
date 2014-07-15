@@ -1,4 +1,4 @@
-SublimePreferences
+Config-Files
 ==================
 
-Text file of user preferences of sublime text editor 
+Various text files for user preferences
